@@ -1,5 +1,7 @@
 comunicacao
 dados
 gui
+java.lang
+java.util
 negocio
 negocio.beans
